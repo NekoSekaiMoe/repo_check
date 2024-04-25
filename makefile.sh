@@ -13,7 +13,7 @@ clean() {
 
 build() {
     test -f README.md && rm -rf README.md
-    bash bin/checkurl.sh | tee -a README.md
+    bash bin/check.sh | tee -a README.md
 }
 
 history_commit() {
