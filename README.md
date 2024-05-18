@@ -1,6 +1,6 @@
 # Repo Check Status
 
-Updated on 2024-05-17T12:11:15
+Updated on 2024-05-18T00:31:12
 
 | repo url | repo status |
 | -------- | -------- | 
@@ -9,6 +9,5 @@ Updated on 2024-05-17T12:11:15
 |  https://github.com/A-JiuA/sirius_Kernel |  301 |
 |  https://github.com/picasso09/RMX2189R |  301 |
 |  https://github.com/BlackMesa123/android_kernel_samsung_s5e8835 |  301 |
-|  https://github.com/Sr-Han/kernel_xiaomi_mojito |  404 |
 |  https://github.com/Vaz15k/kernelSU-A70q |  404 |
 |  https://github.com/psionicprjkt/android_kernel_realme_mt6785 |  404 |
