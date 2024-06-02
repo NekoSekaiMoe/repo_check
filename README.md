@@ -1,3 +1,8 @@
+End of Life
+=========================================
+
+This project has fulfilled its historic mission.See [KernelSU 's release note](https://github.com/tiann/KernelSU/releases/tag/v1.0.0) for more details.
+
 # Repo Check Status
 
 Updated on 2024-06-02T12:10:46
